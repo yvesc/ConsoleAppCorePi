@@ -1,0 +1,2 @@
+# ConsoleAppCorePi
+.NET core demo
